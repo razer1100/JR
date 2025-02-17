@@ -190,7 +190,7 @@ header *{
   align-items: center;
 }
 #menu .menu-items .menu-item img{
-  width : 80;
+  width : 80px;
   border-radius: 50%;
   margin-right: 20px;
 }
